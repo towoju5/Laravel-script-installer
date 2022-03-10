@@ -1,0 +1,15 @@
+{
+    "name": "towoju/laravel-gui-installer",
+    "type": "template",
+    "description": "A free GUI installer for your laravel project, no more .env manual editing.",
+    "keywords": ["template"],
+    "homepage": "https://github.com/towoju5/Laravel-script-installer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emmanuel Towoju",
+            "homepage": "https://towoju.com",
+            "role": "Freelance Developer"
+        }
+    ]
+}
