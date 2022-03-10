@@ -3,7 +3,7 @@
     "type": "template",
     "description": "A free GUI installer for your laravel project, no more .env manual editing.",
     "keywords": ["template"],
-    "homepage": "https://github.com/towoju5/Laravel-script-installer",
+    "homepage": "https://github.com/towoju5/laravel-gui-installer",
     "license": "MIT",
     "authors": [
         {
