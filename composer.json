@@ -1,5 +1,5 @@
 {
-    "name": "towoju/laravel-gui-installer",
+    "name": "towoju5/laravel-gui-installer",
     "type": "template",
     "description": "A free GUI installer for your laravel project, no more .env manual editing.",
     "keywords": ["template"],
